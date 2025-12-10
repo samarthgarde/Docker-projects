@@ -1,4 +1,4 @@
-# 🚀 Flask + PostgreSQL + Docker CRUD REST API
+# 🚀 Containerized REST API Application using Flask and PostgreSQL
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3.2-orange?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -11,7 +11,7 @@ This project demonstrates building, running, and testing backend APIs with datab
 
 ## 📂 Project Structure
 ```bash
-flask-postgres-crud/
+Containerized REST API Application using Flask and PostgreSQL/
 ├── Dockerfile # Dockerfile to containerize the Flask app
 ├── app.py # Main Flask application
 ├── database/ # PostgreSQL database setup scripts
